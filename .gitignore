@@ -1,0 +1,24 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor metadata (safe)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Cache directories
+.cache/

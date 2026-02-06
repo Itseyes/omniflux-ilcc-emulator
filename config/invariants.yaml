@@ -1,0 +1,5 @@
+# ILCC-α TRL-3 invariants (minimal)
+# All invariants are fail-closed: absence or parse failure must halt.
+
+thermal:
+  max_temp_c: 85.0
